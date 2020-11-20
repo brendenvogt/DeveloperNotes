@@ -1,0 +1,42 @@
+# Things Developers Need
+- Good Hardware
+  - Good dev computer (Laptop is great)
+  - Good workspace
+  - Good monitors
+  - Good keyboard
+  - Good mouse
+  - Good headphones
+- Access to production ready equipment
+- Knowledge of Git
+  - git status
+  - git checkout 
+  - git clone
+  - git log
+  - git commit 
+  - git add
+  - git reset
+  - git pull 
+  - git push
+  - git fetch
+  - git show
+  - git diff
+- Debugging/Problem Solving Skills
+  - Being comfortable with reading build errors
+  - Traversing logs
+    - grep sed cat tail xargs (and the compressed forms zgrep, zcat, ztail)
+    - Regex knowledge
+  - Linux
+    - Navigating a linux host
+- Knowledge of various CI/CD and Platform as a Service (PaaS) systems
+  - Heroku
+  - GitLab
+  - Jenkins
+  - CircleCI
+  - TravisCI
+  - Bamboo
+  - TeamCity
+- Knowledge of the cloud
+  - AWS 
+  - GCP
+  - Azure
+  - Digital Ocean

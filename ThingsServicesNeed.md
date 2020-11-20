@@ -1,0 +1,44 @@
+# Things Services Need
+- Domains
+  - Test (Alpha, Beta)
+  - Pre-Prod (Gamma)
+  - Prod (Prod, Production)
+- Security
+  - Authentication
+  - Throttling
+    - IP based
+    - UserAgent based
+    - User/Account Based
+    - API/Endpoint Based
+- Configuration
+  - Remote Config
+  - AB Testing
+- Caching
+  - local
+  - distributed
+- Health
+  - Logging 
+  - Metrics
+  - Alarms
+  - Charting
+  - Heartbeat/Health Check
+- Code Review
+  - Diff
+  - Revisions
+  - Comments
+  - Reviewers
+  - Health (build report)
+  - Description/Details/Overview
+- CI/CD
+  - Build
+    - Logs
+    - Artifact Management
+  - Test
+    - Logs
+    - Unit
+    - Component
+    - Integration
+    - Load
+    - End-to-End
+  - Deploy
+    - Health Check
