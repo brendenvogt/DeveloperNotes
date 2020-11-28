@@ -1,34 +1,13 @@
 # Things Services Need
-- Domains
-  - Test (Alpha, Beta)
-  - Pre-Prod (Gamma)
-  - Prod (Prod, Production)
-- Security
-  - Authentication
-  - Throttling
-    - IP based
-    - UserAgent based
-    - User/Account Based
-    - API/Endpoint Based
-- Configuration
-  - Remote Config
-  - AB Testing
-- Caching
-  - local
-  - distributed
-- Health
-  - Logging 
-  - Metrics
-  - Alarms
-  - Charting
-  - Heartbeat/Health Check
 - Code Review
+  - Source and Target
   - Diff
   - Revisions
   - Comments
   - Reviewers
   - Health (build report)
   - Description/Details/Overview
+  - Workflows/Hooks
 - CI/CD
   - Build
     - Logs
@@ -42,3 +21,32 @@
     - End-to-End
   - Deploy
     - Health Check
+- Domains
+  - Test (Alpha, Beta)
+  - Pre-Prod (Gamma)
+  - Prod (Prod, Production)
+- Security
+  - Authentication/Authorization
+  - Throttling
+    - IP based
+    - UserAgent based
+    - User/Account Based
+    - API/Endpoint Based
+- Configuration
+  - Remote Config
+  - AB Testing
+  - Secret/Key management 
+- Caching
+  - local
+  - distributed
+- Persistent Storage 
+- Health
+  - CPU/Memory/TPS/Connections Consumption
+  - Logging 
+  - Metrics
+  - Alarms
+  - Charting
+  - Heartbeat/Health Check
+- Localization/Remote static content
+  - locale based content (strings, images, video, etc)
+  - region based content (strings, images, video, etc)
